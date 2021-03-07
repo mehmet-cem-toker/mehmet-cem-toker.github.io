@@ -37,10 +37,14 @@ Work experience
   *Nova Translation-Localisation Ltd.
   * Duties included: Document Translation
 
-* Fall 2019: Specialist 
+* Fall 2020: Nuclear Engineer
   * Radioactive Waste Management Section, Turkish Atomic Energy Authority
-  * Duties included: Radioactive waste handling with radiation protection duties.
+  * Duties included: Waste Management Specialisation in France.
 
+* Spring 2021: Nuclear Engineer 
+  * Nuclear Construction Inspection Organization, Assystem
+  * Duties included: Supporting AEOS NCIO Team on nuclear topics.
+ 
 Skills
 ======
 * Thermo-Hydraulics, Neutronics, Thermodynamics
