@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Nuclear Engineering, Hacettepe University, 2017
-* M.S. in Nuclear Engineering, Hacettepe University, 2014
+* M.S. in Nuclear Engineering, Hacettepe University, 2020
 * M.1. in Nuclear Engineering Physics, Paris-Saclay University, 2021
 * M.2. in Radioactive Waste Management, Paris-Saclay University, 2022
 
