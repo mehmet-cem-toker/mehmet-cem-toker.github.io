@@ -19,6 +19,16 @@ Mehmet Cem TOKER
 Msc. Nuclear Energy Engineer
 
 
-For more info
+Contact:
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Mailing Address
+499 Rue Hector Berlioz, 91400 Orsay-France
+
+Phone
++33 7 49 18 48 89
+
+Email
+mehmet-cem.toker@u-psud.fr
+mehmettoker@hacettepe.edu.tr
+mehmet-cem.toker@cs-student.fr
+
