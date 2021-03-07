@@ -15,7 +15,6 @@ Education
 * M.S. in Nuclear Engineering, Hacettepe University, 2014
 * M.1. in Nuclear Engineering Physics, Paris-Saclay University, 2021
 * M.2. in Radioactive Waste Management, Paris-Saclay University, 2022
-* Phd. in Material Science, METU, 2025 (Expected)
 
 Work experience
 ======
