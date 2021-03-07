@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "My CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -49,24 +49,11 @@ Skills
 * Materials, Deformation Studies
 * Russian, French, English, Turkish Language Skills
 
+Projects
+======
+Thermo-Hydraulics Behaviour of VVER-1000 Reactors under Large Break Loss of Coolant Accident
+
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+1- Hidrojenin Zircaloy-4 Alaşımının Mekanik Davranışı Üzerindeki Etkisinin İncelenmesi, http://www.openaccess.hacettepe.edu.tr:8080/xmlui/handle/11655/23167
+2- Modelling and Simulation of Hydrogen Effects on Zircaloy-4 Alloys (Upcoming), Nuclear Materials and Energy
