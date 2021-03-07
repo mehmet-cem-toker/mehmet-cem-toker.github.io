@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-### CONTACT ME FOR FUTURE OPPORTUNITIES:
+## CONTACT ME FOR FUTURE OPPORTUNITIES!
 
 ## Mailing Address: 
 ## 499 Rue Hector Berlioz, 91400 Orsay-France
