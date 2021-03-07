@@ -13,7 +13,7 @@ redirect_from:
 
 * Phone +33 7 49 18 48 89
 
-* Email mehmet-cem.toker@u-psud.fr 
-*       mehmettoker@hacettepe.edu.tr 
-*       mehmet-cem.toker@cs-student.fr
+* Email: mehmet-cem.toker@u-psud.fr 
+*        mehmettoker@hacettepe.edu.tr 
+*        mehmet-cem.toker@cs-student.fr
 
