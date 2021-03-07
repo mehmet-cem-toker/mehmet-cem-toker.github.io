@@ -55,9 +55,10 @@ Skills
 
 Projects
 ======
-Thermo-Hydraulics Behaviour of VVER-1000 Reactors under Large Break Loss of Coolant Accident
+1- Thermo-Hydraulics Behaviour of VVER-1000 Reactors under Large Break Loss of Coolant Accident
 
 Publications
 ======
 1- Hidrojenin Zircaloy-4 Alaşımının Mekanik Davranışı Üzerindeki Etkisinin İncelenmesi, http://www.openaccess.hacettepe.edu.tr:8080/xmlui/handle/11655/23167
+
 2- Modelling and Simulation of Hydrogen Effects on Zircaloy-4 Alloys (Upcoming), Nuclear Materials and Energy
