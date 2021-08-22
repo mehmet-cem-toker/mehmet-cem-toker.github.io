@@ -14,9 +14,9 @@ Education
 * B.S. in Nuclear Engineering, Hacettepe University, 2017
 * M.S. in Nuclear Engineering, Hacettepe University, 2020
 * M.1. in Nuclear Engineering Physics, Paris-Saclay University, 2021
-* M.2. in Radioactive Waste Management, Paris-Saclay University, 2022
+* M.2. in Radioactive Waste Management, Ecole Centrale de Paris, 2022
 
-Work experience
+Work Experience
 ======
 * Summer 2010: Computer Engineer
   * Software Development
@@ -51,6 +51,14 @@ Skills
 * Process Engineering, Chemical Engineering
 * C++ Programming, LINUX based Solutions
 * Materials, Deformation Studies
+* Project Management, Earned-Planned Value Estimation
+* Scheduling, Cost Engineering
+* MS Project, Primavera P6
+* Radiation and Nuclear Safety
+* Reactor Design and Engineering
+* Solid and Fluid Mechanics
+* Excel Programming
+* Documentation and Translation of Technical Documents
 * Russian, French, English, Turkish Language Skills
 
 Projects
@@ -59,6 +67,8 @@ Projects
 
 Publications
 ======
-1- Hidrojenin Zircaloy-4 Alaşımının Mekanik Davranışı Üzerindeki Etkisinin İncelenmesi, http://www.openaccess.hacettepe.edu.tr:8080/xmlui/handle/11655/23167
+1- Hidrojenin Zircaloy-4 Alaşımının Mekanik Davranışı Üzerindeki Etkisinin İncelenmesi, DOI: 10.13140/RG.2.2.12770.35524 http://www.openaccess.hacettepe.edu.tr:8080/xmlui/handle/11655/23167
 
-2- Modelling and Simulation of Hydrogen Effects on Zircaloy-4 Alloys (Upcoming), Nuclear Materials and Energy
+2- Modelling and Simulation of Hydrogen Effects on Zircaloy-4 Alloys (Upcoming), Nuclear Materials and Energy, https://www.researchgate.net/publication/351442986_MODELLING_AND_SIMULATION_OF_HYDROGEN_EFFECT_ON_THE_MECHANICAL_BEHAVIOR_OF_ZIRCALOY-4_ALLOY
+
+3- COMPUTATIONAL THERMAL ANALYSIS FOR A NEW CONCEPTUAL CANISTER DESIGN OF A DEEP GEOLOGICAL DISPOSAL OF SPENT FUEL, https://www.researchgate.net/publication/352221551_COMPUTATIONAL_THERMAL_ANALYSIS_FOR_A_NEW_CONCEPTUAL_CANISTER_DESIGN_OF_A_DEEP_GEOLOGICAL_DISPOSAL_OF_SPENT_FUEL
