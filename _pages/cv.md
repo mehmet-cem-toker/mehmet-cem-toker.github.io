@@ -9,12 +9,42 @@ redirect_from:
 
 {% include base_path %}
 
+Personel Profile
+======
+
+I am a nuclear engineer with holistic knowledge of multiphysical
+code development and design. However, I am also experienced in
+quality inspections in construction and installation activities in
+nuclear power plant. Being multilingual, I can be an asset to a
+company in business growth and market expansion.
+
 Education
 ======
-* B.S. in Nuclear Engineering, Hacettepe University, 2017
-* M.S. in Nuclear Engineering, Hacettepe University, 2020
-* M.1. in Nuclear Engineering Physics, Paris-Saclay University, 2021
-* M.2. in Radioactive Waste Management, Ecole Centrale de Paris, 2022
+M2 Master's in Nuclear Engineering - Decommissioning and Radioactive Waste Management
+Paris-Saclay University & Ecole des ponts Paristech | Ongoing
+
+Courses based on Radiation Protection, PWR Functional Description, Nuclear Fuel Cycles, Nuclear Reactor Systems, Introduction to Safety, Criticality-Safety, Risk Management, Politics, Strategy and Management of Decommissioning, Dismantling and Waste Decommissioning, Politics, Strategy and Management of Decommissioning, Dismantling and Waste Decommissioning, Methods of Decommissioning proceed are to be taken.
+
+M1 Master's in Nuclear Engineering Physics
+Institut national des sciences et techniques nucléaires | July 2021
+
+Courses based on Nuclear Physics, Thermodynamics, Energy Economics, Neutronics, Particle-Matter İnteraction, French Language, Electrical Engineering, Quantum Mechanics, Physics Of Materials, Project Management, Process Chemistry, Continuum Mechanics, Thermo-Hydraulics, Data Analysis And Control Theory are succeeded.
+
+Master of Science (Bac+5) in Nuclear Engineering 
+Hacettepe University | Dec 2020
+
+Courses based on Computational Fluid Dynamics, Reprocessing Of Spent Nuclear Fuels, Nuclear Reactor Theory, Nuclear Engineerıng Design, Reliability Analysis Methods, Nuclear Waste Management, Nuclear Reactor Theory, Deterministic Analyses Of Accidents, Nuclear Fuel Cycle, Nuclear Safety are succeeded.
+Thesis Title: The Effect Of Hydrogen On The Mechanıcal Behavior Of Zircaloy-4 Alloy    DOI: 10.13140/RG.2.2.12770.35524
+
+Bachelor of Science (Bac+4) in Nuclear Engineering 
+Hacettepe University | Feb 2017
+
+Courses based on Fluid Mechanics, Material Sciences, Numerical Analysis, Thermodynamics, Heat Transfer, Electronics, Instrumentation & Control, Nuclear Physics, Nuclear Engineering, Reactor Engineering, Nuclear Fuel & Materials are succeeded.
+
+Russian Language School
+National Nuclear Research University (Obninsk-Russia) | Feb 2011
+
+
 
 Work Experience
 ======
