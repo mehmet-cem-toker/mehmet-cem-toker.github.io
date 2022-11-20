@@ -21,7 +21,7 @@ company in business growth and market expansion.
 Education
 ======
 M2 Master's in Nuclear Engineering - Decommissioning and Radioactive Waste Management
-Paris-Saclay University & Ecole des ponts Paristech | Ongoing
+Paris-Saclay University & Ecole des ponts Paristech | 2022
 
 Courses based on Radiation Protection, PWR Functional Description, Nuclear Fuel Cycles, Nuclear Reactor Systems, Introduction to Safety, Criticality-Safety, Risk Management, Politics, Strategy and Management of Decommissioning, Dismantling and Waste Decommissioning, Politics, Strategy and Management of Decommissioning, Dismantling and Waste Decommissioning, Methods of Decommissioning proceed are to be taken.
 
@@ -73,7 +73,19 @@ Work Experience
 
 * Spring 2021: Nuclear Engineer 
   * Nuclear Construction Inspection Organization, Assystem
-  * Duties included: Supporting AEOS NCIO Team on nuclear topics.
+  * Duties included: Supporting AEOS NCIO Team on nuclear topics
+
+* Spring 2022: Intern Project Manager
+  * Nuclear Decomissioning and Waste Management, Orano-DS at Cadarache, France
+  * Duties included: Supporting VP of Orano-DS on performance review and lessons learned.
+ 
+* October 2022: Design and Safety Engineer
+  * ITER Project: Nuclear safety and design support 
+  * Duties included: Supporting ITER Organisation by means of structural and FEM analysıs.
+
+* December 2022: Nuclear Engineer 
+  * Supporting specialist on the duties related to nuclear topics on TAEA.
+  * Duties included: Full-stack engineer on scientific research and development.
  
 Skills
 ======
